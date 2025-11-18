@@ -1,0 +1,5 @@
+{
+  "name": " Smart Study Companion",
+  "description": "An AI tutor that analyzes textbook photos, lecture slides, and handwritten notes to create personalized study materials like summaries, flashcards, and quizzes using Gemini's multimodal capabilities.",
+  "requestFramePermissions": []
+}
